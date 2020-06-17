@@ -1,0 +1,15 @@
+node_modules
+.next
+.gitignore
+canvas.html
+frontend
+dist
+.nuxt
+ts
+#*
+three_d_models
+.env
+.DS_Store
+tsconfig.js
+test-server.js
+.vercel
