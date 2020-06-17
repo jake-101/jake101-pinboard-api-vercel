@@ -10,7 +10,7 @@
       "status": 200,
       "src": "/db",
       "dest": "/links.js",
-      "headers": { "cache-control": "maxage=36000, s-maxage=36000, stale-while-revalidate" }
+      "headers": { "cache-control": "maxage=36000, s-maxage=18000, stale-while-revalidate" }
     },
     {
       "src": "/(.*)",
